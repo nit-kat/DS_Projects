@@ -1,1 +1,38 @@
 
+Day 1
+1. The role of database is to hold a collection of tables at one place. 
+2. creating database 
+in postgres server, we have the option of right clicking on databses-> and create a new database.
+creating a table
+Query: CREATE TABLE TABLENAME(
+COL1 DATA TYPE CONSTRAINTS,
+COL2 DATA TYPE ....
+.
+.
+.);
+
+Day 2
+1. Data types available are INT, VARCHAR, DATE, TIMESTAMP, FLOAT, BLOB,TEXT ETC.
+2. CREATE TABLE EMPLOYEE(
+FIRST_NAME VARCHAR(20) NOT NULL,
+LAST_NAME VARCHAR(20),
+AGE INT,
+SALARY INT NOT NULL,
+LOCATION VARCHAR DEFAULT 'iNDIA',
+PRIMARY KEY( FIRST_NAME, LAST_NAME)
+);
+
+
+Day 3
+1. Composite key is a combination of multiple keys to be used as primary key. 
+e.g. in the above query I have used a composite key.
+2. Primary key cannot have null values while unique key can have null values.
+
+Day 4
+1. Contraints are restrictions/rules we place on the table or columns.
+e.g. we can add a rule to age column that it has to be >=18 years
+we can add a rule that price column has to be >=0
+2. CREATE table creates a new table while ALTER table updates the existing table in the database.
+
+Day 5
+

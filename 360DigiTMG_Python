@@ -1,0 +1,45 @@
+
+Day 1
+1. Python is case-sensitive. As for different variables lets say python and PYTHON it reates two different variables 
+and does not consider them the same.
+2. Rules to create variable name are:
+Cannot start with a number.
+Must contain only alphabets, digits or underscore.
+Can start with underscore.
+Cannot contain space.
+Best practice is to have lowercase.
+
+Day 2
+1. There are words which python uses internally, those are referred to as reserved words.
+To name a few, try, catch, if, finally, etc.
+2. There are many different operators in python.
+Below are some of the commonly used :
+Arithmetic (+,-,*,/)
+Comparison(>,<,==,!=,<=,>=)
+Assignment ( +=, -=, *=, /=)
+Logical( and, or, not)
+
+Day 3
+1. Operators with examples
+10+20=30
+10-20=-10
+10*20=200
+10/20=0.5
+
+10==20 False
+10!=20 True
+10>20 False
+
+
+2. List is an ordered sequence of elements in python. 
+Difference between indexing and slicing
+list1 = [1,2,3,4,5]
+indexing: list1[1]  =2
+slicing : list1[2:5]  = [3,4]
+
+Day 4
+1. Built-in uctions are the ones which are pre defined in python and ready to use. 
+e.g. sorted function 
+2. Set is unordered and unindexed collection of elements. It cannot have duplicates.
+Set differs from tuple that tuples are immutable while sets are mutable.
+tuples can have duplicates while sets cannot have duplicates.

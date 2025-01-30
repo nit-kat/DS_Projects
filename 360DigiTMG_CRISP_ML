@@ -1,1 +1,25 @@
+Day 1
+1. The 4 stages of analytics are :
+Descriptive Analytics: Tells us what happened.
+Diagnostic Analytics: Tells us why something happened.
+Predictive Analytics: Tells us what might happen.
+Prescriptive Analytics: Tells us what can be done.
+2. Abbreviation of CRISP-ML(Q) stands for CRoss Industry Standard Process for Machine Learning with Quality Assurance.
+And the 6 phases are namely: 
+Business and Data Understanding
+Data Preparation
+Model development
+Evaluation
+Model deployment
+Monitoring 
 
+Day 2
+1. Business Understanding refers to as understanding the business problem  and
+the two key things to document as part of that are business objective and business constraints.
+2. Data understanding refers to understanding what data we will need in order to solve the business
+problem and what type of data it is.
+
+Day 3
+1. Continous data can be represented as decimals while discrete can not.
+2. We have Continous data which further can be either interval or ratio, and 
+discrete data which further is categorical( Binary, Nominal, Ordinal).

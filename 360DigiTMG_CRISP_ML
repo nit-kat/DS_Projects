@@ -23,3 +23,14 @@ Day 3
 1. Continous data can be represented as decimals while discrete can not.
 2. We have Continous data which further can be either interval or ratio, and 
 discrete data which further is categorical( Binary, Nominal, Ordinal).
+
+
+Day 4
+1. Time series and Cross sectional data differs in the fact that date/time , sequence is
+not important in cross sectional data while it matters in Time series data
+2. Offline processing usually collects data on a pre set time, it could be once or twice a day 
+or once a week. Online processing is almost a continous stream of data being passed for processing.
+e.g. credit card fraud detection, if the data is not passed live we would not be able to 
+immediately detect the fraud, imagine the data being passed offline, fraud detection will happen
+later when the data would be passed and processed.
+
